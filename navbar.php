@@ -10,11 +10,10 @@
         <i class="fas fa-bars"></i>
       </label>
       <ul>
-        <li><a class="active" href="#">Home</a></li>
+        <li><a href="home.php">Home</a></li>
         <li><a href="#">Gallery</a></li>
         <li><a href="inquiry.php">Inquiry</a></li>
       </ul>
     </nav>
-    <section></section>
   </body>
 </html>
