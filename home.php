@@ -35,7 +35,7 @@
         <!-- <div class="coffee_bg ">
             <img src="http://localhost:80/BusinessInquiry/images/coffee3.png" alt="" srcset="">
         </div> -->
-    <section class="features">
+    <!-- <section class="features">
         <div>
             <img src="http://localhost:80/BusinessInquiry/images/coffee1.jpg" alt="" srcset="">
         </div>
@@ -45,7 +45,7 @@
         <div>
             <img src="http://localhost:80/BusinessInquiry/images/coffee3.jpg" alt="" srcset="">
         </div>
-    </section>
+    </section> -->
 
 
 </body>

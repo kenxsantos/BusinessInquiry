@@ -12,7 +12,7 @@
             <h1 class="title">Gallery</h1>
         </div>
         <div class="gallery-flex">
-            <div class="gallery-child">
+            <!-- <div class="gallery-child">
                 <img src="http://localhost:80/BusinessInquiry/images/coffee1.jpg" alt="" srcset="">
             </div>
             <div class="gallery-child">
@@ -37,7 +37,7 @@
             </div>
             <div class="gallery-child">
                 <img src="http://localhost:80/BusinessInquiry/images/coffee8.jpg" alt="" srcset="">
-            </div>
+            </div> -->
         </div>
     </div>
 </body>
